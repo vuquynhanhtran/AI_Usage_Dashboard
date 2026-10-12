@@ -1,10 +1,10 @@
 # AI in Education: Student Outcomes and Well-being
 
-**Power BI portfolio project · Work in progress**
+**Power BI portfolio project · This is a work in progress**
 
 ## Project goal
 
-Build an educator-facing dashboard to explore **who uses generative AI, how students use it, and how academic outcomes and well-being compare**.
+The goal is to duild an dashboard for educators to explore **who uses generative AI, how students use it, and how academic outcomes and well-being compare due to AI**.
 
 ## What I did
 
@@ -28,9 +28,7 @@ Build an educator-facing dashboard to explore **who uses generative AI, how stud
 - Higher post-semester GPA does **not** prove that AI caused improvement.
 - Clear labels and appropriate comparisons matter more than visual variety.
 
-## Current status
-
-Next steps are to validate IDs, missing values, and score definitions; improve the study-year and policy charts; and add major/year filters.
+I di
 
 **The report shows descriptive associations, not causal effects of AI or policy.**
 
@@ -38,4 +36,4 @@ Next steps are to validate IDs, missing values, and score definitions; improve t
 
 - **Dataset:** [AI Impact on Students — Kaggle](https://www.kaggle.com/datasets/laveshjadon/ai-impact-on-students).
 - 
-- **Deliverable:** Power BI template (`.pbit`). I worked on this on **Power BI Web**. The template does not include imported data and may require source connection settings.
+- **Deliverable:** Power BI template (`.pbit`). I worked on this on **Power BI**. The template does not include imported data and may require additional alterations to work.
